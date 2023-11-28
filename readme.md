@@ -1,5 +1,3 @@
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nordew&show_icons=true&theme=radical)
-
 ## Technologies and Tools
 
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
