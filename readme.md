@@ -12,8 +12,5 @@
 
 ![MinIO](https://img.shields.io/badge/-MinIO-1397E5?style=flat&logo=minio&logoColor=white)
 
-## Get in Touch
-
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/roman-horishny-076236268/) 
 
 
