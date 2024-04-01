@@ -1,10 +1,9 @@
 ## Core Stack
 💻 Languages: **C, Go**
 
-🚀 Main Focus: Backend Development
+🚀 Main Focus: **Backend Development**
 
 ## Interests
-🔥 Backend Development
 
 🔧 DevOps
 
