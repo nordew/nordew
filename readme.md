@@ -1,5 +1,5 @@
 ## Core Stack
-💻 Languages: **C, Go**
+💻 Languages: **C/C++, Go, Python**
 
 🚀 Main Focus: **Backend Development**
 
