@@ -1,2 +1,2 @@
 - 💻 Core Stack: **C, Go**. Mainly focused on Backend.
-- 🔥 Interested in Backend, DevOps.
+- 🔥 Interested in Backend, DevOps, Rust ;).
