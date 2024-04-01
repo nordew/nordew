@@ -1,5 +1,6 @@
 ## Core Stack
 💻 Languages: **C, Go**
+
 🚀 Main Focus: Backend Development
 
 ## Interests
