@@ -7,7 +7,7 @@
 
 🔧 DevOps
 
-🦀 Rust Enthusiast
+🦀 Rust
 
 
 ## Let's Connect
