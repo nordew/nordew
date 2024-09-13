@@ -1,7 +1,7 @@
 ## Core Stack
-💻 Languages: **C, Go, Python, JS, Rust**
+💻 Languages: **C, Go**
 
-🚀 Main Focus: **Backend Development, Web3**
+🚀 Main Focus: **Backend Development, DevOps**
 
 ## Interests
 
