@@ -1,12 +1,8 @@
 ## Core Stack
-💻 Languages: **C, Go**
+💻 Languages: **Go, Rust**
 
-🚀 Main Focus: **Backend Development, DevOps**
+🚀 Main Focus: **Backend Development, Architect**
 
 ## Interests
 
-🔧 DevOps
-
-
-## Let's Connect
-📫 You can reach me on Telegram: [@ohtiomo](https://t.me/ohtiomo)
+🔧 Mobile
