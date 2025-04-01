@@ -8,9 +8,5 @@
 
 - **DevOps**  
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nordew&show_icons=true&theme=radical)
-
 ## 🔗 Connect
 - [LinkedIn](https://www.linkedin.com/in/roman-horishnyi/)
