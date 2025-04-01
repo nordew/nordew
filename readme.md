@@ -6,7 +6,7 @@
 
 ## 🚀 Interests
 
-- **DevOps:**  
+- **DevOps**  
 
 ## 📈 GitHub Stats
 
