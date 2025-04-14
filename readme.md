@@ -8,5 +8,3 @@
 
 - **DevOps**  
 
-## 🔗 Connect
-- [LinkedIn](https://www.linkedin.com/in/roman-horishnyi/)
