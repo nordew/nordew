@@ -43,13 +43,10 @@ I'm passionate about building efficient and resilient backend systems. With deep
 
 ---
 
-📫 Let's connect if you're into scalable systems, fast data, and backend craftsmanship.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nordew&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nordew&layout=compact&theme=radical" alt="Top Languages" />
 </p>
