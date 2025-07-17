@@ -3,14 +3,6 @@
   <p>Designing performant, fault-tolerant services with clean architecture & strong distributed systems principles.</p>
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm passionate about building efficient and resilient backend systems. With deep experience in Golang and Python, I work at the intersection of distributed architecture, cloud-native tooling, and high-throughput infrastructure.
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🧠 Programming Languages
